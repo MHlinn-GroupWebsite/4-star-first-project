@@ -1,4 +1,25 @@
-/* start four */
-.four h2{font-family: 'Times New Roman', Times, serif;
+.container-fluid{margin:0px;padding:0px;font-family: 'Times New Roman', Times, serif;}
+
+.title{margin-bottom:100px;}
+.secondicon{margin-top: 80px;}
+.four i{color:burlywood;
+font-size: 40px;
 }
-/* end four */
+.four p{
+    font-family: Segoe Script;}
+.footer{
+    background-color: #492F16;
+}
+img{width:200%;
+height: auto;}
+.quest{
+    text-align: left;
+    color: #ffffff;
+    font-family: Segoe Print;
+    margin-top: 90px;
+}
+.footercolor {
+    color:#B89F86;
+    margin-top: 15px;
+
+}
