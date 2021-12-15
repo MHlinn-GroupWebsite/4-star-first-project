@@ -1,3 +1,4 @@
+
 /* .thrid-bg{
     background-color: #F2EFEE;
 }
@@ -22,3 +23,27 @@
     .MultiCarousel .rightLst { right:0; }
     
         .MultiCarousel .leftLst.over, .MultiCarousel .rightLst.over { pointer-events: none; background:#ccc; }
+
+
+
+.navbar-collapse{
+    flex-grow: 0 !important;}
+
+.onecontainer{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.nyi-image{
+    width: 100%;
+    padding-top: 20px;
+}
+.nyi-row{
+    background-color: rgb(237, 237, 237);
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+
+.thrid-bg{
+    background-color: #F2EFEE;
+
+}
