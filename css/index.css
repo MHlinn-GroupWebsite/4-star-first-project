@@ -1,3 +1,4 @@
+
 .container-fluid{margin:0px;padding:0px;font-family: 'Times New Roman', Times, serif;}
 
 .title{margin-bottom:100px;}
@@ -20,6 +21,54 @@ height: auto;}
 }
 .footercolor {
     color:#B89F86;
-    margin-top: 15px;
+
+
+/* .thrid-bg{
+    background-color: #F2EFEE;
+}
+.thrid-card{
+    height: 300px;
+    overflow: hidden;
+}
+.thrid-button{
+    border-radius: 20px;
+} */
+
+.thrid-button{
+    border-radius: 20px;
+}
+
+.MultiCarousel { float: left; overflow: hidden; padding: 15px; width: 100%; position:relative; }
+    .MultiCarousel .MultiCarousel-inner { transition: 1s ease all; float: left; }
+        .MultiCarousel .MultiCarousel-inner .item { float: left;}
+        .MultiCarousel .MultiCarousel-inner .item > div { text-align: center; padding:10px; margin:10px; background:#f1f1f1; color:#666;}
+    .MultiCarousel .leftLst, .MultiCarousel .rightLst { position:absolute; border-radius:50%;top:calc(50% - 20px); }
+    .MultiCarousel .leftLst { left:0; }
+    .MultiCarousel .rightLst { right:0; }
+    
+        .MultiCarousel .leftLst.over, .MultiCarousel .rightLst.over { pointer-events: none; background:#ccc; }
+
+
+
+.navbar-collapse{
+    flex-grow: 0 !important;}
+
+.onecontainer{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.nyi-image{
+    width: 100%;
+    padding-top: 20px;
+}
+.nyi-row{
+    background-color: rgb(237, 237, 237);
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+
+.thrid-bg{
+    background-color: #F2EFEE;
+
 
 }
